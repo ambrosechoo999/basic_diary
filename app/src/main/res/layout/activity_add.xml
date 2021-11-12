@@ -4,10 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AddActivity"
-    android:backgroundTint="?attr/backgroundColor"
-
-    >
+   android:background="@color/very_white"
+    tools:context=".AddActivity">
 
     <EditText
         android:id="@+id/title_input"
